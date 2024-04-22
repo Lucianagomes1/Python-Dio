@@ -46,6 +46,7 @@ while True:
     elif opcao == "e":
         print("Extrato")
         print(extrato)
+        print(f"Saldo: R$ {saldo:.2f}")
 
     elif opcao == "q":
         print("Saindo...")
