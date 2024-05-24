@@ -20,17 +20,17 @@ Este projeto é um sistema bancário simples implementado em Python. Ele oferece
 
 1. Clone este repositório para sua máquina local.
    ```sh
-   git clone https://github.com/seu-usuario/sistema-bancario-python.git
+   git clone https://github.com/Lucianagomes1/Python-Dio.git
    ```
 
 2. Navegue até o diretório do projeto.
    ```sh
-   cd sistema-bancario-python
+   cd Python-Dio
    ```
 
 3. Execute o script Python.
    ```sh
-   python sistema_bancario.py
+   python Python-Dio.py
    ```
 
 ## Uso
@@ -75,4 +75,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE par
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [Luciana](https://github.com/Lucianagomes1).
